@@ -1,1 +1,22 @@
 # Ola-Data-Analysis-By-PowerBi-Dashboard
+
+I have created an Power Bi Dashboard report on Ola Rides on Benguluru City, India in Month of July.
+
+Inside this dashboard i have used an dataset which i have transform in Power Bi Desktop in which i have remove empty values and error from the dataset.
+
+Then I have created an ppt on how my dashboard looks and created an blueprint of the dashboard in which it has 5 sections Overall, Vehicle type, Revenue, Cancellation, Ratings.
+
+:-
+1. Overall - In Overall section i have line chart on booking count on Date , an Pie chart on booking status whether the rides success or cancelled by some reasons, Two card view to show Total Bookings and Total Bookings Value and an Slicer to for manipulating the date.
+
+2. Vehicle Type - In Vehicle Type section i have an table that shows Total Booking Value, Success Booking Value, Avg. Distance Travelled, Total Distance Travelled according to all vehicle type.
+
+3. Revenue - In Revenue section i have an bar chart to show that revenue value according to payment method, an another bar chart that shows Ride Distance by Date, an also an table that shows top 5 customers that have travelled most and an slicer to manipulate the date.
+
+4. Cancellation - In Cancellation section i have an Slicer to manipulate the date, Two Pie Chart that shows Rides cancelled by Customers and Rides Cancelled by Drivers and Four Card to show Total Bookings, Success Bookings, Cancelled Bookings and Cancellation Rates.
+
+5. Ratings - In Ratings section i have 2 tables one for the drivers ratings for specific vehicle types and second table is for the ratings for specific vehicle types by customers.
+
+
+
+Dashboard Link :- https://app.powerbi.com/view=eyJrIjoiZGIxNGY2MTEtN2MzOC00MWE3LWE2ZTAtMWU0YzAwYTM1Mjc3IiwidCI6ImYxYTllNDE4LWZiNTItNDFiZi04NWJiLWI3NDQzNGIwMjBmZCJ9
