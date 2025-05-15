@@ -19,4 +19,4 @@ Then I have created an ppt on how my dashboard looks and created an blueprint of
 
 
 
-Dashboard Link :- https://app.powerbi.com/view=eyJrIjoiZGIxNGY2MTEtN2MzOC00MWE3LWE2ZTAtMWU0YzAwYTM1Mjc3IiwidCI6ImYxYTllNDE4LWZiNTItNDFiZi04NWJiLWI3NDQzNGIwMjBmZCJ9
+Dashboard Link :- https://app.powerbi.com/view?r=eyJrIjoiZGIxNGY2MTEtN2MzOC00MWE3LWE2ZTAtMWU0YzAwYTM1Mjc3IiwidCI6ImYxYTllNDE4LWZiNTItNDFiZi04NWJiLWI3NDQzNGIwMjBmZCJ9
